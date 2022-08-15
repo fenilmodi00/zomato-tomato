@@ -47,7 +47,7 @@ User can `sign in` or `sign up` using `google sign in` or through `email verific
 
 ### `Functionalities`
 
-- User can order food online based on location
+- User can order food online based on location at time
 - OAuth login through google
 - Google Maps Integrated
 - RazorPay Integrated for Payment
